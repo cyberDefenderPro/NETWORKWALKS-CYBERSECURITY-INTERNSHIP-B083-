@@ -57,7 +57,8 @@ Security-tool experimentation
 
 Download and install Oracle VirtualBox.
 
-<img width="597" height="352" alt="image" src="https://github.com/user-attachments/assets/e7c38ef0-e85e-4d07-963c-adad5749fe46" />
+<img width="597" height="352" alt="650486855-e7c38ef0-e85e-4d07-963c-adad5749fe46" src="https://github.com/user-attachments/assets/ef58ae48-6359-4680-aa23-873acbc04737" />
+
 
 
 <h3>2.Create a private NAT Network</h3>
@@ -66,7 +67,8 @@ Create a private NAT network to allow the cybersecurity lab machines to communic
 
 Go to File>>Tools>>Networks>>NatNetworks>>Set IPv4 Prefix settings to 10.0.0.0/24>>Apply
 
-<img width="347" height="523" alt="image" src="https://github.com/user-attachments/assets/c140d98c-ff52-4fee-a131-70a653fd742c" />
+<img width="347" height="523" alt="650488836-c140d98c-ff52-4fee-a131-70a653fd742c" src="https://github.com/user-attachments/assets/da37112d-2601-4d33-81c7-19f913f39b07" />
+
 
 
 <h3>3. Install/import Kali Linux as a virtual machine</h3>
@@ -77,7 +79,7 @@ Download latest version of kali from its website. Extract file using WINRAR soft
 
 Go to Virtual Box manu>> Machines>>Add>>Select Machine >>Open
 
-<img width="394" height="304" alt="image" src="https://github.com/user-attachments/assets/c9a8d918-c518-4709-9ce4-19bf9b94eed0" />
+<img width="394" height="304" alt="650492017-c9a8d918-c518-4709-9ce4-19bf9b94eed0" src="https://github.com/user-attachments/assets/16e31601-90af-4bdf-a794-c976b8840c7e" />
 
 <h3>4.Configure network connectivity for Kali Linux</h3>
 
@@ -87,14 +89,15 @@ Configure the Kali VM's network adapter so it can communicate with the lab netwo
 
 Go to Settings>>Network>>Select NatNetwork Previously created>>Ok
 
-<img width="733" height="188" alt="image" src="https://github.com/user-attachments/assets/72be7005-73d5-4a44-b0a7-a79c0ff35fc4" />
+<img width="733" height="188" alt="650493541-72be7005-73d5-4a44-b0a7-a79c0ff35fc4" src="https://github.com/user-attachments/assets/1635bc44-fa54-49a8-b31a-6de678c530a3" />
+
 
 
 <h3>5.Assign a consistent IP address to the Kali VM</h3>
 
 Start Kali Virtual Machine.Configure IPV4 address manually to make network access and future lab activities easier.
 
-<img width="468" height="384" alt="image" src="https://github.com/user-attachments/assets/329034ec-e09e-410c-a8a7-68310fa2db16" />
+<img width="468" height="384" alt="650495968-329034ec-e09e-410c-a8a7-68310fa2db16" src="https://github.com/user-attachments/assets/8a3548d5-7e9e-45f7-ab96-e97fa1fcef8a" />
 
 
 <h3>6.Verify network connectivity and DNS resolution</h3>
@@ -106,7 +109,8 @@ Test the network connection by browsing to confirm that internet service is work
 Create a snapshot of the properly configured Kali VM so the lab can quickly be restored to a clean working state when required.
 <h4>Steps:</h4> Shutdown Kali>>Go to snapshots>>Take Snapshot>>Set Name & Description>>ok
 
-<img width="463" height="508" alt="image" src="https://github.com/user-attachments/assets/c91390c7-b0d9-4b47-93ee-847e2899d86e" />
+<img width="463" height="508" alt="650500277-c91390c7-b0d9-4b47-93ee-847e2899d86e" src="https://github.com/user-attachments/assets/f1313b49-fc7e-4211-98a5-b5086ed9b441" />
+
 
 
 
@@ -116,5 +120,6 @@ Record each configuration and setup step clearly so the environment can be recre
 
 <h4>Lab is ready to support future cybersecurity exercises, testing, and learning activities.Additional Virtual machines like Windows,Android can be added by following the same steps as required in the future</h4>
 
-<img width="600" height="327" alt="image" src="https://github.com/user-attachments/assets/80b9365d-7d57-4eac-83cf-ea65bf1f9cdf" />
+<img width="600" height="327" alt="650507315-80b9365d-7d57-4eac-83cf-ea65bf1f9cdf" src="https://github.com/user-attachments/assets/395b6612-a27b-4a1e-ab10-ef0860196301" />
+
 

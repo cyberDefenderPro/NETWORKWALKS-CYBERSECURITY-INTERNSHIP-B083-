@@ -115,3 +115,6 @@ Create a snapshot of the properly configured Kali VM so the lab can quickly be r
 Record each configuration and setup step clearly so the environment can be recreated or reviewed later.
 
 <h4>Lab is ready to support future cybersecurity exercises, testing, and learning activities.Additional Virtual machines like Windows,Android can be added by following the same steps as required in the future</h4>
+
+<img width="600" height="327" alt="image" src="https://github.com/user-attachments/assets/80b9365d-7d57-4eac-83cf-ea65bf1f9cdf" />
+

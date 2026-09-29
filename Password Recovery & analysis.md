@@ -157,8 +157,7 @@ All three files relied on predictable credentials (password1 and 1qaz2wsx) prese
 
 **2.Upgrade Security Specifications:** Configure PDF generators to use Revision 6 (AES-256) encryption instead of legacy 128-bit handlers.
 
-**3.Data Loss Prevention:** Ban uploading proprietary or sensitive company documents to online decryption and hash extraction utilities.
-
+**3.Data Loss Prevention:** Ban uploading proprietary or sensitive company documents to online decryption and hash extraction utilities. 
 
 
 
